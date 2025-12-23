@@ -163,4 +163,3 @@ Replace `console.log()` calls with API requests using Axios.
 * Form validation & error handling
 * Password strength indicators
 * UI feedback (alerts / toasts)
-* 
